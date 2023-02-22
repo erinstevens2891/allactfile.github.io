@@ -1,3 +1,3 @@
 ?php
-header(“Location: https://facebook.com”, true, 301);
+header(“Location: https://amazon.com”, true, 301);
 ?>
